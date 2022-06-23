@@ -5,11 +5,6 @@ def sortArrayByParity(nums):
 	odd = [i for i in nums if i%2!=0]
 
 	return even+odd
-
-
-
-
-
 sortArrayByParity(nums)
 
         
